@@ -2,7 +2,8 @@
 My solutions to OCaml 99 problems
 http://ocaml.org/learn/tutorials/99problems.html?ref=dzone#Multiway-Trees
 
-####MILESTONES
+#### MILESTONES
+
 date   | description
 -------|--------
 11/19/18| start 
